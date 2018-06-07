@@ -1,23 +1,38 @@
-# tuut_test
+# Teste desenvolvedor TUUT
 
-Quer fazer parte do time da TUUT?
+##Quer fazer parte do time da TUUT?
 
 Lugar de ideias e ação, onde estratégia e criatividade andam juntas.
 Concretizando ideias.
 
-Uma equipe envolvida, comprometida e apaixonada. Um time que se ajuda, troca experiências e tem formação consistente. Estamos sempre aprimorando conhecimento e representamos um mix completo de especialidades: estratégia de marca, identidade visual, planejamento, design gráfico, filme e digital.
+Uma equipe envolvida, comprometida e apaixonada. Um time que se ajuda, troca experiências e tem formação consistente.
 
 O que buscamos neste teste é tentar conhecer melhor o seu trabalho.
 
 Então...
 
-- Busque por organização em seu código.
-- Faça commits, isso é muito importante manter histórico de seu trabalho.
-- Utilize a tecnologia que achar melhor.
-- Se preocupe com UX, não se esqueça que este é um escritório de design.
+## Stack
 
-Este é o modelo que propomos para desenvolvimento.
+* Use a stack que desejar.
+* Informe as instruções necessárias para rodar o projeto :)
+
+## O que esperamos no teste
+
+* Layout responsivo.
+* Header
+* Carrossel de Banners.
+* Seção "Sobre".
+* Galeria de imagens + Carrossel + ZOOM da imagem.
+* Accordion.
+* Seção "Blog".
+* Footer.
+
+## Informações extras
+
+* O objetivo aqui é tentar entender melhor a sua forma de trabalho.
+
+## Proposta
 
 ![alt text](/Desktop.png)
 
-Boa sorte!
+**Boa sorte!**
