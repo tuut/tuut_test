@@ -1,6 +1,6 @@
-# Teste desenvolvedor TUUT
+# Teste desenvolvedor front-end junior
 
-##Quer fazer parte do time da TUUT?
+## Quer fazer parte do time da TUUT?
 
 Lugar de ideias e ação, onde estratégia e criatividade andam juntas.
 Concretizando ideias.
@@ -9,23 +9,37 @@ Uma equipe envolvida, comprometida e apaixonada. Um time que se ajuda, troca exp
 
 O que buscamos neste teste é tentar conhecer melhor o seu trabalho.
 
-Então...
+## Objetivos
 
-## Stack
+A proposta desse teste é simples. 
 
-* Use a stack que desejar.
-* Informe as instruções necessárias para rodar o projeto :)
+Preparamos um modelo de layout de site e você precisa montar o front-end de uma página seguindo esse modelo.
+
+Não se prenda a detalhes estéticos, vamos valorizar a estrutura e a maneira como você escreveu o código (mas se você pegar o exemplo e fazer algo mais bonito vai ser um grande bônus).
 
 ## O que esperamos no teste
 
-* Layout responsivo.
-* Header
-* Carrossel de Banners.
-* Seção "Sobre".
-* Galeria de imagens + Carrossel + ZOOM da imagem.
+* Front-end responsivo.
+* Galeria de imagens com zoom.
+* Carrossel.
 * Accordion.
 * Seção "Blog".
 * Footer.
+* Versionamento.
+
+## Pontos bônus
+
+Não é obrigatório, mas vamos ficar muito felizes de ver isso no teste.
+
+* BEM CSS
+* Configurar qualquer tipo de task runner
+* ES6
+* Integrar no WordPress
+
+## Ferramentas
+
+* Use, com bom senso, as ferramentas que desejar.
+* Informe as instruções necessárias para rodar o projeto :)
 
 ## Informações extras
 
