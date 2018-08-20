@@ -1,4 +1,4 @@
-# Teste desenvolvedor front-end junior
+# Teste desenvolvedor front-end
 
 ## Quer fazer parte do time da TUUT?
 
