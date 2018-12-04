@@ -11,11 +11,9 @@ O que buscamos neste teste é tentar conhecer melhor o seu trabalho.
 
 ## Objetivos
 
-A proposta desse teste é simples. 
+Preparamos um layout de site e você precisa montar o front-end de uma página seguindo esse modelo.
 
-Preparamos um modelo de layout de site e você precisa montar o front-end de uma página seguindo esse modelo.
-
-Não se prenda a detalhes estéticos, vamos valorizar a estrutura e a maneira como você escreveu o código (mas se você pegar o exemplo e fazer algo mais bonito vai ser um grande bônus).
+Não se prenda a detalhes estéticos, vamos valorizar a estrutura e a maneira como você escreveu o código (mas se você pegar o exemplo e fazer algo mais bonito vai ser um bônus).
 
 ## O que esperamos no teste
 
@@ -24,26 +22,21 @@ Não se prenda a detalhes estéticos, vamos valorizar a estrutura e a maneira co
 * Carrossel.
 * Accordion.
 * Seção "Blog".
-* Footer.
 * Versionamento.
-
-## Pontos bônus
-
-Não é obrigatório, mas vamos ficar muito felizes de ver isso no teste.
-
-* BEM CSS
-* Configurar qualquer tipo de task runner
-* ES6
-* Integrar no WordPress
+* Utilizar algum Task Runner (Gulp/Grunt) ou bundler (Webpack/Rollup/Parcel).
+* Pré Processador (Sass/Stylus).
+* JavaScript Moderno (ES6+) <3.
+* Algum padrão de organização de CSS (BEM, RSCSS, ITCSS, SMACSS).
+* Integrar no WordPress.
 
 ## Ferramentas
 
-* Use, com bom senso, as ferramentas que desejar.
 * Informe as instruções necessárias para rodar o projeto :)
+* Configure uma demo do projeto para vermos em produção (gh-pages/Netlify). 
 
 ## Informações extras
 
-* O objetivo aqui é tentar entender melhor a sua forma de trabalho.
+* O objetivo aqui é tentar entender melhor a sua forma de trabalho, sua organização de código e como trabalha com a base do front.
 
 ## Proposta
 
